@@ -1,6 +1,7 @@
 # Variables
 
 ## VBA
+###Sizes
 | Variable                      | Bytes         |
 | :-------------:               |:-------------:|
 | Integer                       | 2             |
@@ -10,6 +11,7 @@
 | String (fixed length)         | 1 per char      |
 | Boolean                       | 2      |
 ## C
+###Sizes
 | Variable                      | Bytes         |
 | :-------------:               |:-------------:|
 | int                           |              |
@@ -17,4 +19,14 @@
 | double                        |              |
 | char                          |        |
 | bool                          |       |
+## C++
+###Sizes
+|Variable                       | Bytes         |
+###Casting
+*static_cast<T>
 ## C#
+###Sizes
+| Variable                      | Bytes         |
+| :-------------:               |:-------------:|
+  ###Casting
+  *(T)
