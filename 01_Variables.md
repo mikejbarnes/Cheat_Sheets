@@ -23,7 +23,7 @@
 ### Sizes
 | Variable                       | Bytes         |
 ### Casting
-* static_cast<T>
+* static_cast\<T>
 ## C#
 ### Sizes
 | Variable                      | Bytes         |
